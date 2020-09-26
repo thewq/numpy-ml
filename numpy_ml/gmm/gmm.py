@@ -1,6 +1,6 @@
 import numpy as np
 from numpy.testing import assert_allclose
-
+#wuqiang
 
 class GMM(object):
     def __init__(self, C=3, seed=None):
